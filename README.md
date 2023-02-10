@@ -5,6 +5,10 @@ Owlhub, Dex Explorer, and Remote Spy. The exploit can easily use just about ever
 
 Currently you are not able to join the indexZ development team.
 
+# Purchase
+
+You can choose from a standard key (8 months), a premium key (16 months), and a lifetime key from [Our webstore](https://indexz.mysellix.io).
+
 # Download
 
 [Download indexZ](https://github.com/zlpdss/indexZ/blob/main/indexZ.zip)
