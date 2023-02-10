@@ -7,7 +7,7 @@ Currently you are not able to join the indexZ development team.
 
 # Purchase
 
-You can choose from a standard key (8 months), a premium key (16 months), and a lifetime key from [Our webstore](https://indexz.mysellix.io).
+You can choose from a standard key (8 months), a premium key (16 months), and a lifetime key from [our webstore](https://indexz.mysellix.io).
 
 # Download
 
