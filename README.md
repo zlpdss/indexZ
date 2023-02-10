@@ -7,7 +7,7 @@ Currently you are not able to join the indexZ development team.
 
 # Download
 
-indexZ/indexZ.zip
+/indexZ/indexZ.zip
 
 # Documentation
 #### Details
