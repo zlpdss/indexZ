@@ -16,8 +16,7 @@ Currently you are not able to join the indexZ development team.
 #### Details
 indexZ - 1.2
 
-indexZ nativly runs off of C# however the code editor itself uses Lua, later down the road we will add cross comaptiability 
-between the two languages. This does not buffer indexZ's usage in any way though.
+indexZ natively runs off of C# however, the code editor uses Lua; later down the road, we will add cross compatibility between the two languages. This does not buffer indexZ's usage in any way, though.
 
 **Lua Environments :**
 
