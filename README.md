@@ -7,7 +7,9 @@ Currently you are not able to join the indexZ development team.
 
 # Download
 
-/indexZ/indexZ.zip
+[Download indexZ](https://github.com/zlpdss/indexZ/blob/main/indexZ.zip)
+
+https://github.com/zlpdss/indexZ/blob/main/indexZ.zip
 
 # Documentation
 #### Details
