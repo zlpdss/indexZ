@@ -5,6 +5,10 @@ Owlhub, Dex Explorer, and Remote Spy. The exploit can easily use just about ever
 
 Currently you are not able to join the indexZ development team.
 
+# Download
+
+indexZ/indexZ.zip
+
 # Documentation
 #### Details
 indexZ - 1.2
